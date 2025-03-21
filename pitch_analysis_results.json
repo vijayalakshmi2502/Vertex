@@ -1,0 +1,18 @@
+{
+    "scores": {
+        "Problem": 0.6262269336730242,
+        "Solution": 0.5998818669468164,
+        "Market": 0.5808798596262932,
+        "Business Model": 0.5805165506899357,
+        "Financials": 0.5694078747183084,
+        "Team": 0.5550885107368231
+    },
+    "feedback": {
+        "Problem": "Needs Improvement - This section lacks clarity or detail.",
+        "Solution": "Needs Improvement - This section lacks clarity or detail.",
+        "Market": "Needs Improvement - This section lacks clarity or detail.",
+        "Business Model": "Needs Improvement - This section lacks clarity or detail.",
+        "Financials": "Needs Improvement - This section lacks clarity or detail.",
+        "Team": "Needs Improvement - This section lacks clarity or detail."
+    }
+}

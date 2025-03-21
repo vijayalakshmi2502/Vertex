@@ -1,0 +1,6 @@
+InvestorID,PreferredIndustry,InvestmentRange,PreferredBusinessModel
+1,Fintech,100000-1000000,B2C
+2,Healthcare,500000-5000000,B2B
+3,E-commerce,50000-200000,B2C
+4,EdTech,200000-1000000,B2B
+5,Agritech,1000000-10000000,B2C
